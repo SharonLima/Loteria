@@ -1,6 +1,6 @@
 # Loteria
 
-Here is an app that converts multiple units. Among them dollar to real, celsius to fahrenheit, kilometers to meters and pound to kilogram
+This is an app that generates random numbers in quina and mega-sena formats
 
 Below video of how the app is:
 
