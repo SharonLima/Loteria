@@ -1,4 +1,4 @@
-# Loteria
+# Lottery
 
 This is an app that generates random numbers in quina and mega-sena formats
 
